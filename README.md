@@ -31,7 +31,7 @@
 - 🎨 Adoro a parte front de uma aplicação, pois visualmente consigo visualizar lindamente o que estou fazendo!<br>
 - 🎭 É como pintar um quadro branco. Eu nunca pintei, mas é como se fosse rsrsrs. 😅
    
-### Tecnologias que estou estudando:
+### Tecnologias que estou buscando conhecimento:
   
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
