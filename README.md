@@ -24,9 +24,8 @@
  ### Minhas skills(habilidades):
 
  <div style="display: inline_block"> <br>
-   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Pedro-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+   
    </div>
 <br>
 - 🎨 Adoro a parte front de uma aplicação, pois visualmente consigo visualizar lindamente o que estou fazendo!<br>
