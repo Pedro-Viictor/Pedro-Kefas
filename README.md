@@ -38,7 +38,7 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=Linux.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;
 
 - 🛸 Essas são as tecnologias que estou buscando aprender :)
 
