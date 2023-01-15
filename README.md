@@ -24,7 +24,7 @@
  ### Minhas skills(habilidades):
 
  <div style="display: inline_block"> <br>
-   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+   <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
    
    </div>
 <br>
