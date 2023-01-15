@@ -23,10 +23,9 @@
  
  ### Minhas skills(habilidades):
 
- <div style="display: inline_block"> <br>
-   <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
+ ![image]({https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white})
+ 
    
-   </div>
 <br>
 - 🎨 Adoro a parte front de uma aplicação, pois visualmente consigo visualizar lindamente o que estou fazendo!<br>
 - 🎭 É como pintar um quadro branco. Eu nunca pintei, mas é como se fosse rsrsrs. 😅
