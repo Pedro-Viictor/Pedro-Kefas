@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4F4F4F&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+MY+NAME+is+Pedro+Kefas;I'm+20+years+old;I'm+from+Brazil;I'm+a+web+development+and+cybersecurity+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-- 👨‍💻 Sou estudante de desenvolvimento Web. Gosto muito da parte Front-End e também tenho interesse na área de Pentest, em busca de ser um Hacker Ético Profissional. Minhas tecnologias são HTML5, CSS3(Sass) e JavaScript(ECMAScript). Também uso Discord.js v14 para fazer alguns bots no Discord.  
+- 👨‍💻 Sou estudante de desenvolvimento Web. Gosto muito da parte Front-End e também tenho interesse na área de Pentest, em busca de ser um Hacker Ético Profissional. Minhas tecnologias são HTML5, CSS3 e JavaScript. Também uso Discord.js v14 para fazer alguns bots no Discord.  
 - ✍️ Estudo para ser o melhor na que que faço. Sempre dedicado a terminar coisas que começo.
 - 🎮 Curto jogar vários jogos, então podem me chamar para algum game entrando no meu Servidor de Discord :)
 
