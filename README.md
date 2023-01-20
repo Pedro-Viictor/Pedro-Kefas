@@ -40,7 +40,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-- 🛸 Essas são as tecnologias que estou buscando aprender :)
+- 🚀 Essas são as tecnologias que estou em busca de dominar (^-^)
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
