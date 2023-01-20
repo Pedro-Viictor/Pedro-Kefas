@@ -29,7 +29,7 @@
  
 <br>
 - 🎨 Adoro a parte front de uma aplicação, pois visualmente consigo visualizar lindamente o que estou fazendo!<br>
-- 🎭 É como pintar um quadro branco. Eu nunca pintei, mas é como se fosse rsrsrs. 😅
+- 🎭 É como pintar um quadro branco. Eu nunca pintei um, mas é como se fosse rsrsrs. 😅
    
 ### Tecnologias que estou buscando conhecimento:
   
