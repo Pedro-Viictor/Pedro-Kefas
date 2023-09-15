@@ -7,8 +7,7 @@
 - ✍️ Estudo para ser o melhor na que que faço. Sempre dedicado a terminar coisas que começo.
 - 🎮 Curto jogar vários jogos, então podem me chamar para algum game entrando no meu Servidor de Discord :)
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
-username=Pedro-Viictor&show (cons=true&theme=radical)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Viictor&show (cons=true&theme=radical)
 
 ### Redes Sociais (Links):
 <div align="center"> 
