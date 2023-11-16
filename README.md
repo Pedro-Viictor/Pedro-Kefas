@@ -41,6 +41,7 @@
   
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)&nbsp;
 
 - 🚀 Essas são as tecnologias que estou em busca de dominar (^-^)
 
