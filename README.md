@@ -20,9 +20,9 @@
  const me = {
   name : 'Pedro Victor',
   age : 21,
-  education: 'Web development student',
   job: 'Programmer Jr',
   company: 'undefined',
+  education: 'Web development student',
   skills: [
    'JavaScript',
    'ReactJS', 
@@ -30,7 +30,7 @@
    'CSS3'
    'SASS'
   ]
- } 
+ };
 ````
   
  ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
