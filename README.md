@@ -40,8 +40,8 @@
 ### Tecnologias que estou buscando conhecimento:
   
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=red)&nbsp;
+![Golang](https://img.shields.io/badge/Golang-007ACC?style=for-the-badge&logo=golang&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 - 🚀 Essas são as tecnologias que estou em busca de dominar (^-^)
 
