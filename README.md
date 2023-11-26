@@ -25,7 +25,7 @@
   education: 'Web development student',
   skills: [
    'JavaScript',
-   'ReactJS', 
+   'React JS', 
    'HTML5', 
    'CSS3'
    'SASS'
