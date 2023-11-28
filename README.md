@@ -40,6 +40,7 @@
 ### Tecnologias que estou buscando conhecimento:
   
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 
 - 🚀 Essas são as tecnologias que estou em busca de dominar (^-^)
 
