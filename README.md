@@ -4,7 +4,6 @@
 
 
 - 👨‍💻 Sou estudante de desenvolvimento Web voltado para o front-end. Minhas tecnologias são HTML5, CSS3, Sass/Scss, Javascript e React JS. Estou estudando Typescript para usar no lugar do javascript puro e prosseguir no React. Pretendo aprender futuramente Golang como linguagem de programação para usar no back-end.
-- ✍️ Estudo para ser o melhor na que que faço. Sempre dedicado a terminar coisas que começo.
 - 🎮 Curto jogar vários jogos, então podem me chamar para algum game entrando no meu Servidor de Discord :)
 
 ### Redes Sociais (Links):
