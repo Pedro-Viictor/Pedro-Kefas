@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5a0c0c&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+MY+NAME+is+Pedro+Victor;I'm+21+years+old;I'm+from+Brazil;I'm+a+web+development+student;Fique+à+vontade!+:%29)](https://git.io/typing-svg)
 
 
-- 👨‍💻 Sou estudante de desenvolvimento Web voltado para o front-end. Minhas tecnologias são HTML5, CSS3, Sass/Scss, Javascript e React JS. Estou estudando Typescript para usar no lugar do javascript puro e prosseguir no React. Pretendo aprender futuramente Golang como linguagem de programação para usar no back-end.
+- 👨‍💻 Sou estudante de desenvolvimento Web voltado para o front-end. Minhas tecnologias são HTML5, CSS3, Sass/Scss, Javascript e React JS. Pretendo aprender futuramente Golang como linguagem de programação para usar no back-end.
 - 🎮 Curto jogar vários jogos, então podem me chamar para algum game entrando no meu Servidor de Discord :)
 
 ### Redes Sociais (Links):
@@ -37,9 +37,7 @@
 - 🎭 É como pintar um quadro branco. Eu nunca pintei um, mas é como se fosse rsrsrs. 😅
    
 ### Tecnologias que estou buscando conhecimento:
-  
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
 - 🚀 Essas são as tecnologias que estou em busca de dominar (^-^)
