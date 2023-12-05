@@ -3,8 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a87f50&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+MY+NAME+is+Pedro+Victor;I'm+21+years+old;I'm+from+Brazil;I'm+a+web+development+student;Fique+à+vontade!+:%29)](https://git.io/typing-svg)
 
 
-- 👨‍💻 Sou estudante de desenvolvimento Web voltado para o front-end. Minhas tecnologias são HTML5, CSS3, Sass/Scss, JavaScript e React JS. Pretendo aprender futuramente Golang como linguagem de programação para usar no back-end.
-- 🎮 Curto jogar vários jogos, então podem me chamar para algum game entrando no meu Servidor de Discord :)
+- 👨‍💻 Hi! How are you? I am fine! I'm web development student focused on the front-end. My hard skills are HTML5, CSS3, Sass/Scss, JavaScript e React JS. I intend to learn Golang as a back-end language in the future.
+- I live in Brazil and speak Portuguese. My English and Russian language is beginner.
+- 🎮 I like fps games like Valorant and Counter-Strike.
+
 
 ### Redes Sociais (Links):
 <div align="center"> 
@@ -14,7 +16,7 @@
 <a href = "hsvictor990@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
  
- ### Minhas skills(habilidades):
+ ### Hard skills(habilidades):
 ```js
  const me = {
   name : 'Pedro Victor',
@@ -33,14 +35,10 @@
 ````
  
 <br>
-- 🎨 Adoro a parte front de uma aplicação, pois visualmente consigo visualizar lindamente o que estou fazendo!<br>
-- 🎭 É como pintar um quadro branco. Eu nunca pintei um, mas é como se fosse rsrsrs. 😅
    
 ### Tecnologias que estou buscando conhecimento:
 
 ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
-- 🚀 Essas são as tecnologias que estou em busca de dominar (^-^)
 
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
