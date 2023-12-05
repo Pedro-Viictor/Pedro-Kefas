@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a87f50&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+MY+NAME+is+Pedro+Victor;I'm+21+years+old;I'm+from+Brazil;I'm+a+web+development+student;Fique+à+vontade!+:%29)](https://git.io/typing-svg)
 
 
-- 👨‍💻 Hi! How are you? I am fine! I'm web development student focused on the front-end. My hard skills are HTML5, CSS3, Sass/Scss, JavaScript e React JS. I intend to learn Golang as a back-end language in the future.
+- 👨‍💻 Hi! How are you? I am fine! I'm web development student focused on the front-end.
+- My hard skills are HTML5, CSS3, Sass/Scss, JavaScript and React JS.
+- I intend to learn Golang as a back-end language in the future.
 - I live in Brazil and speak Portuguese. My English and Russian language is beginner.
 - 🎮 I like fps games like Valorant and Counter-Strike.
 
