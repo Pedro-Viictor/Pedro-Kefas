@@ -6,7 +6,7 @@
 - 👨‍💻 Hi! How are you? I am fine! I'm web development student focused on the front-end.
 - My hard skills are HTML5, CSS3, Sass/Scss, JavaScript and React JS.
 - I intend to learn Golang as a back-end language in the future.
-- I live in Brazil and speak Portuguese. My English and Russian language is beginner.
+- I live in Brazil and speak Portuguese. My English and Russian languages is beginner.
 - 🎮 I like fps games like Valorant and Counter-Strike.
 
 
