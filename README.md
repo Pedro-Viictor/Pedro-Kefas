@@ -2,16 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bb5dc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+MY+NAME+is+Pedro+Victor;I'm+21+years+old;I'm+from+Brazil;I'm+a+web+development+student;Fique+à+vontade!+:%29)](https://git.io/typing-svg)
 
-
-- Привет всем! Меня зовут Виктор ^^ Как у вас дела? Я очень хорошо. Я студент веб-разработки. 👨‍💻
-- Я также изучаю русский язык 🇷🇺
-- Я из Бразилии и живу в Сеаре. Я говорю по-португальски и немного понимаю русский. ( My English and Russian languages is beginner.)
-- Мне нравится играть в Counter-strike и Valorant 🎮
-
 - Hi all! My name is Victor ^^ How are you doing? I'm very good. I'm a web development student. 👨‍💻
 - I am also studying Russian 🇷🇺
 - I'm from Brazil and live in Ceara. I speak Portuguese and understand a little Russian. (My English and Russian languages is beginner.)
 - I like to play Counter-strike and Valorant
+ 
+(Привет всем! Меня зовут Виктор ^^ Как у вас дела? Я очень хорошо. Я студент веб-разработки. 👨‍💻
+ Я также изучаю русский язык 🇷🇺
+ Я из Бразилии и живу в Сеаре. Я говорю по-португальски и немного понимаю русский. ( My English and Russian languages is beginner.)
+ Мне нравится играть в Counter-strike и Valorant 🎮 )
+
 
 
   ### Redes Sociais (Links):
