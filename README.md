@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5bb5dc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bb5dc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+MY+NAME+is+Pedro+Victor;I'm+21+years+old;I'm+from+Brazil;I'm+a+web+development+student;Fique+à+vontade!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5bb5dc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+WORLD!+MY+NAME+is+Pedro+Victor;I'm+a+cybersecurity+student;Offensive+Security;CTF+Player;Fique+à+vontade!+:%29)](https://git.io/typing-svg)
 
 - Hi all! My name is Victor ^^ How are you doing? I'm very good. I'm a web development student. 👨‍💻
 - I am also studying Russian 🇷🇺
@@ -30,12 +30,13 @@
 
 <p align="center">
 
-- **Tecnologias Front-End**:
+- **Tecnologias**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 <br>
 
@@ -43,17 +44,13 @@
   <br>
   <br>
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  <br>
-  <br>
-- **Ferramentas e Softwares que estou buscando conhecimento:**
-  <br>
-  <br>
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   <br>
+  
   <br>
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
