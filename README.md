@@ -4,14 +4,16 @@
 
 - Hi all! My name is Victor ^^ How are you doing? I'm very good. I'm a web development student. 👨‍💻
 - I am also studying Russian 🇷🇺
-- I'm from Brazil and live in Ceara. I speak Portuguese and understand a little Russian. (My English and Russian languages is beginner.)
+- I'm from Brazil and live in Ceara. I speak Portuguese and understand a little Russian.
 - I like to play Counter-strike and Valorant 🎮
 
  In Russian language:
 - Привет всем! Меня зовут Виктор ^^ Как у вас дела? Я очень хорошо. Я студент веб-разработки. 👨‍💻
 - Я тоже изучаю русский язык 🇷🇺.
-- Я из Бразилии и живу в Сеаре. Я говорю по-португальски и немного понимаю русский. ( My English and Russian languages is beginner.)
+- Я из Бразилии и живу в Сеаре. Я говорю по-португальски и немного понимаю русский.
 - Мне нравится играть в Counter-strike и Valorant 🎮 )
+
+- (My English and Russian languages is beginner.)
 
 
 
