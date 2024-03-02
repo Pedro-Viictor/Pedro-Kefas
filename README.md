@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F6&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9F2ED&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0F6&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Pedro+Victor;I'm+a+cybersecurity+student;Offensive+Security;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Pedro+Victor;I'm+a+cybersecurity+student;Offensive+Security;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
 - Hi all! My name is Victor ^^ How are you doing? I'm very good. I'm a web development student. 👨‍💻
 - I am also studying Russian 🇷🇺
@@ -64,4 +64,4 @@
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0F6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9F2ED&height=120&section=footer"/>
