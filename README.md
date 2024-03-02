@@ -28,7 +28,7 @@
   <br>
   
   <a href="https://github.com/Pedro-Viictor" target="_blank"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank"> </a>
-  <a href="kefasroot@proton.me" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"> </a>
+  <a href="kefasroot@proton.me" target="_blank"> <img src="https://img.shields.io/badge/ProtonMail: kefasroot@proton.me-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"> </a>
 
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
