@@ -1,20 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9F2ED&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+My+name+is+Pedro+Victor;I'm+a+cybersecurity+student;Offensive+Security;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+Meu+nome+é+Pedro+Victor;Eu+sou+estudante+de+desenvolvimento+web;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-- Hi all! My name is Pedro ^^ How are you doing? I'm very good. I'm a web development student. 👨‍💻
-- I am also studying Russian 🇷🇺
-- I'm from Brazil. I speak Portuguese and understand a little Russian.
-- I like to play Counter-strike and Valorant 🎮
-
- In Russian language:
-- Привет всем! Меня зовут Пётр ^^ Как у вас дела? Я очень хорошо. Я студент веб-разработки и кибербезопасности. 👨‍💻
-- Я тоже изучаю русский язык 🇷🇺.
-- Я из Бразилии. Я говорю по-португальски и немного понимаю русский.
-- Мне нравится играть в Counter-strike и Valorant 🎮 )
-
-- (My English and Russian languages is beginner.)
-
+- Olá! Meu nome é Pedro. Sou estudante de desenvolvimento front-end.
 
 <div align="center"> 
 
