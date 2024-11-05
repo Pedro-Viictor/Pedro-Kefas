@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E9F2ED&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+Meu+nome+é+Pedro+Victor;Eu+sou+estudante+de+programação+back-end+e+cybersecurity;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+Meu+nome+é+Pedro+Victor;Eu+sou+estudante+de+programação+back-end;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-- Olá! Meu nome é Pedro. Sou estudante programação back-end e cybersecurity
+- Olá! Meu nome é Pedro. Sou estudante programação back-end
 
 <div align="center"> 
 
