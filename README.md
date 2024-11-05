@@ -2,7 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E9F2ED&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!+Meu+nome+é+Pedro+Victor;Eu+sou+estudante+de+programação+back-end;Seja+bem-vindo(a)!+:%29)](https://git.io/typing-svg)
 
-- Olá! Meu nome é Pedro. Sou estudante programação back-end
 
 <div align="center"> 
 
