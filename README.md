@@ -29,20 +29,6 @@
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
   <br>
-  <br>
-  <br>
-  
- **Ferramentas**:
-  <br>
-  <br>
-  
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  ![Windos](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-  <br>
 <div align="center">
 <br><p align="centre"><b>Contador de visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Pedro-Kefas}/count.svg" /></p> 
